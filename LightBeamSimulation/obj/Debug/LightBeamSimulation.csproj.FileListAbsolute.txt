@@ -1,0 +1,10 @@
+C:\Users\svsh195\source\repos\LightBeamSimulation\bin\Debug\LightBeamSimulation.exe.config
+C:\Users\svsh195\source\repos\LightBeamSimulation\bin\Debug\LightBeamSimulation.exe
+C:\Users\svsh195\source\repos\LightBeamSimulation\bin\Debug\LightBeamSimulation.pdb
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.csprojAssemblyReference.cache
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.Form1.resources
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.Properties.Resources.resources
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.csproj.GenerateResource.cache
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.csproj.CoreCompileInputs.cache
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.exe
+C:\Users\svsh195\source\repos\LightBeamSimulation\obj\Debug\LightBeamSimulation.pdb

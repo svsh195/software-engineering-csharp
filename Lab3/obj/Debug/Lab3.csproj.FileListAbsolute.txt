@@ -1,0 +1,7 @@
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\bin\Debug\Lab3.exe
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\bin\Debug\Lab3.pdb
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\obj\Debug\Lab3.exe
+C:\Users\svsh195\Documents\GitHub\software-engineering-csharp\Lab3\obj\Debug\Lab3.pdb
