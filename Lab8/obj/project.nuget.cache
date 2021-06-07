@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwIbcSwnHyUVwb+0M+YuCm/cPW3bWk7a35lRZgw7vfYj9lvELkbhE5B5q22T9sHfYkbmiAM08W7Z9qty3ut18g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\svsh195\\Documents\\GitHub\\software-engineering-csharp\\Lab8\\Lab8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svsh195\\.nuget\\packages\\faisalman.agecalc\\0.0.3\\faisalman.agecalc.0.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

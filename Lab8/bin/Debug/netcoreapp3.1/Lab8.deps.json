@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab8/1.0.0": {
+        "dependencies": {
+          "Faisalman.AgeCalc": "0.0.3"
+        },
+        "runtime": {
+          "Lab8.dll": {}
+        }
+      },
+      "Faisalman.AgeCalc/0.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/AgeCalc.dll": {
+            "assemblyVersion": "0.0.3.0",
+            "fileVersion": "0.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Faisalman.AgeCalc/0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0tt9FRyARQcSeS5b+hls8+1GynT4ZPeQd/yF2drcrNI/aDmmv6/MNCxpm563wxnsBlXpvB9gDYhtO2hVd0AfAA==",
+      "path": "faisalman.agecalc/0.0.3",
+      "hashPath": "faisalman.agecalc.0.0.3.nupkg.sha512"
+    }
+  }
+}
